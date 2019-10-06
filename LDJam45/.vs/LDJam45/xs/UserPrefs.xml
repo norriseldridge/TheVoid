@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{91189E75-8679-038F-A3A8-E4866CCDC270}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/MusicManager.cs">
+    <Files>
+      <File FileName="Assets/scripts/HealthPickup.cs" Line="10" Column="10" />
+      <File FileName="Assets/scripts/PrefabResource.cs" Line="21" Column="31" />
+      <File FileName="Assets/scripts/LevelLoader.cs" Line="59" Column="10" />
+      <File FileName="Assets/scripts/DeadScreen.cs" Line="56" Column="6" />
+      <File FileName="Assets/scripts/AI/VoidAI.cs" Line="54" Column="6" />
+      <File FileName="Assets/scripts/MusicManager.cs" Line="54" Column="36" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LDJam45" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="scripts" expanded="True">
+                <Node name="AI" expanded="True" />
+                <Node name="MusicManager.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.LDJam45 PreferredExecutionTarget="57a86f9a-d0df-4c6c-adf7-c0db75da9b78" />
+</Properties>
